@@ -1,4 +1,4 @@
-Making my coputer go "beep-boop"
+Making my computer go "beep-boop"
 
 <!---
 otykh/otykh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
